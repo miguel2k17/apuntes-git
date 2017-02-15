@@ -1,5 +1,10 @@
 ## Curso Git desde Cero
 
+##Zonas de Git
+1.Directorio de trabajo
+2.Zona de preparacion.
+3.Directorio Git
+
 ##Algo sobre GIT
 Como se observa se confirma que el archivo a sido cambiado. Y más adelante en el tiempo será posible regresar a este punto del estado del repositorio.
 
