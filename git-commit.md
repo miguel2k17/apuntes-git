@@ -7,3 +7,4 @@ Si no hemos hecho cambios desde la ultima confirmacion el COMMIT
 lucira exactamente igual. y lo unico que cambiaremos sera el mensage del
 COMMIT
 
+Otros cambios adicionales hechos al repositorio
