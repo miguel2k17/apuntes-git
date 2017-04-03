@@ -12,3 +12,5 @@ Como se observa se confirma que el archivo a sido cambiado. Y más adelante en e
 
 ##Terceros cambios al archivo
 Es recomendable (NO obligatorio)  crear un archivo con este nombre  ya que este es el archivo “index” que lee GITHUB
+
+Esta linea fue creada en la rama 'master'.
