@@ -8,3 +8,6 @@ lucira exactamente igual. y lo unico que cambiaremos sera el mensage del
 COMMIT
 
 Otros cambios adicionales hechos al repositorio
+
+### Git Commit -a -m "Mensaje del Commit"
+Con este comando podemos saltar el area de preparacion
