@@ -1,7 +1,7 @@
-## git remote add origin https://github.com/miguel2k17/apuntes-git.git
+# git remote add origin https://github.com/miguel2k17/apuntes-git.git
 Con este comando vinculamos nuestro repositorio local con GITHUB
 
-##Pasos para aportar en otro repositorio
+# Pasos para aportar en otro repositorio
 1. Hacer un FORK en Github
 2. Clonar el repositorio desde mi cuenta de Github.
 3. Crear una Rama local
