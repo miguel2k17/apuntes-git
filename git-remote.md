@@ -11,3 +11,6 @@ Con este comando vinculamos nuestro repositorio local con GITHUB
    usando git push origin nombreRama.
 7. Crear un Pull request con la nueva rama de mi repositorio en Github
 8. Esperar a que el administrador del repositorio original acepte mis cambios   
+
+## Varios repositorios remotos
+Podemos configurar un mismo proyecto para sincronizar cambios con varios repositorios remotos.

@@ -16,5 +16,3 @@ Es recomendable (NO obligatorio)  crear un archivo con este nombre  ya que este 
 ## Aportes desde otra cuenta
 Este texto fue apostado desde la cuenta pegasus2k14
 
-## Varios repositorios remotos
-Podemos configurar un mismo proyecto para sincronizar cambios con varios repositorios remotos. 
