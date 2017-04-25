@@ -17,3 +17,5 @@ Es recomendable (NO obligatorio)  crear un archivo con este nombre  ya que este 
 Este texto fue apostado desde la cuenta pegasus2k14
 
 ## Conexion via SSH a Github
+
+## Esta linea se agrego desde un equipo Windows conectando el repositorio local con el repositorio remoto via HTTPS.
