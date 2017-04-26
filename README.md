@@ -19,3 +19,5 @@ Este texto fue apostado desde la cuenta pegasus2k14
 ## Conexion via SSH a Github
 
 ## Esta linea se agrego desde un equipo Windows conectando el repositorio local con el repositorio remoto via HTTPS.
+
+## Este cambio nos permitira probar una conexion al repositorio remoto via SSH
