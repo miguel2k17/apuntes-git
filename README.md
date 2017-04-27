@@ -21,3 +21,15 @@ Este texto fue apostado desde la cuenta pegasus2k14
 ## Esta linea se agrego desde un equipo Windows conectando el repositorio local con el repositorio remoto via HTTPS.
 
 ## Este cambio nos permitira probar una conexion al repositorio remoto via SSH
+
+## Confoguracion SSH en Windows
+1. Creamos una carpeta llamada 'llaves-ssh' en el disco 'C' para evitar problemas de rutas 
+
+2. configuramos el comando 'ssh-keygen -t rsa -C "miCorreo@ejemplo.com"'. El correo debe ser el mismo con el que nos registramos en GITHUB, dejamos el passprase vacio y damos Enter
+Cuando nos pida la ruta escribimos '/c/laves-ssh/github_rsa'
+
+3. Iniciamos ssh-agenten background ejecutando el comando 'eval $(ssh-agent -s)'.
+
+4. Agregamos la llave ssh generada al ssh-agent ejecutando el comando 'ssh-add /c/llaves-ssh/github_rsa'.
+
+5. Desde ahora  podemos hacer  PULL y PUSH sin que GITHUB nos pida datos e acceso
